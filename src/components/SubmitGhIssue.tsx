@@ -4,7 +4,7 @@ function SubmitGhIssue() {
       Tidak menemukan yang kamu cari? Kamu bisa membuat permintaan penambahan data baru melalui
       {` `}
       <a
-        href="https://github.com/LRMN7/buku-pramuka/issues/new"
+        href="https://lrmn.is-a.fun/"
         target="_blank"
         rel="noopenner noreferrer"
         className="text-link"
