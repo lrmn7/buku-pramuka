@@ -9,7 +9,7 @@ function SubmitGhIssue() {
         rel="noopenner noreferrer"
         className="text-link"
       >
-        Github issue
+        Sosial Link
       </a>
     </div>
   )
