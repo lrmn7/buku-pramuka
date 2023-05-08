@@ -24,12 +24,12 @@ function Footer() {
         </a>
         {', '}
         <a
-          href="https://baca-quran.vercel.app"
+          href="https://quran-everywhere.vercel.app/"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
         >
-          Baca-Quran
+          Al-Qur'an Everywhere
         </a>
       </p>
     </footer>
