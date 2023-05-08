@@ -95,7 +95,7 @@ function ActionNavigation({ title, text, url }: ActionNavigationProps) {
                 ) : (
                   <SiWhatsapp aria-hidden="true" className="w-6 h-6" />
                 )}
-                <span className="text-xs truncate">Bagikan ke WhatsApp</span>
+                <span className="text-xs truncate">WhatsApp</span>
               </button>
             </li>
             <li className="relative">
@@ -112,7 +112,7 @@ function ActionNavigation({ title, text, url }: ActionNavigationProps) {
                 ) : (
                   <SiFacebook aria-hidden="true" className="w-6 h-6" />
                 )}
-                <span className="text-xs truncate">Bagikan ke Facebook</span>
+                <span className="text-xs truncate">Facebook</span>
               </button>
             </li>
             <li className="relative">
@@ -129,7 +129,7 @@ function ActionNavigation({ title, text, url }: ActionNavigationProps) {
                 ) : (
                   <SiTwitter aria-hidden="true" className="w-6 h-6" />
                 )}
-                <span className="text-xs truncate">Bagikan ke Twitter</span>
+                <span className="text-xs truncate">Twitter</span>
               </button>
             </li>
           </>
