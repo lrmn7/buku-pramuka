@@ -4,12 +4,12 @@ function SubmitGhIssue() {
       Tidak menemukan yang kamu cari? Kamu bisa membuat permintaan penambahan data baru melalui
       {` `}
       <a
-        href="https://lrmn.is-a.fun/"
+        href="https://instagram.com/romanroman.nya"
         target="_blank"
         rel="noopenner noreferrer"
         className="text-link"
       >
-        Sosial Link
+        Instagram
       </a>
     </div>
   )
