@@ -4,7 +4,7 @@ function Footer() {
       <p>
         Dibuat oleh{' '}
         <a
-          href="https://lrmn.is-a.fun"
+          href="https://is-a.fun"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
@@ -15,16 +15,16 @@ function Footer() {
       <p className="mt-2">
         Cek juga:{' '}
         <a
-          href="https://skata-info-1001-cara-bicara.vercel.app/"
+          href="https://qr-generator.is-a.fun/"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
         >
-          1001 Cara Bicara
+          QR Generator
         </a>
         {', '}
         <a
-          href="https://quran-everywhere.vercel.app/"
+          href="https://quran-everywhere.is-a.fun/"
           target="_blank"
           rel="noopenner noreferrer"
           className="font-bold text-link"
